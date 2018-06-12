@@ -12,12 +12,14 @@ The included `minetest.conf` file configures the above mods to bring you the opt
 
 ## Mods list
 
-Note that the mods themselves aren't included in this repository, but you can download them using the `download.py` tool (requires Python 3 and `git`). You can also grab [a full release](https://github.com/tukkek/minerpg_game/releases), which will already contain all mods.
+Note that the mods themselves aren't included in this repository, but you can download them using the `download.py` tool (requires Python 3 and `git` - plus MinGw if you're on Windows). You can also grab [a full release](https://github.com/tukkek/minerpg_game/releases), which will already contain all mods.
 
 * anvil https://github.com/minetest-mods/anvil
+* biome_lib https://github.com/minetest-mods/biome_lib
 * craftguide https://github.com/minetest-mods/craftguide
 * dmobs https://github.com/D00Med/dmobs/
 * lucky_block https://notabug.org/TenPlus1/lucky_block
+* minetest_game https://github.com/minetest/minetest_game/
 * MinetestAmbience (`ambience`) https://github.com/e-y-e/MinetestAmbience/tree/fix_music
 * minerpg https://github.com/tukkek/minerpg
 * mobs_animal https://notabug.org/TenPlus1/mobs_animal
