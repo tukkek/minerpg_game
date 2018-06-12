@@ -14,16 +14,16 @@ The included `minetest.conf` file configures the above mods to bring you the opt
 
 Note that the mods themselves aren't included in this repository, but you can download them using the `download.py` tool (requires Python 3 and `git`). You can also grab [a full release](https://github.com/tukkek/minerpg_game/releases), which will already contain all mods.
 
+* anvil https://github.com/minetest-mods/anvil
+* craftguide https://github.com/minetest-mods/craftguide
+* dmobs https://github.com/D00Med/dmobs/
+* lucky_block https://notabug.org/TenPlus1/lucky_block
+* MinetestAmbience (`ambience`) https://github.com/e-y-e/MinetestAmbience/tree/fix_music
 * minerpg https://github.com/tukkek/minerpg
-* mobs_redo https://notabug.org/TenPlus1/mobs_redo
-* mobs_monster https://notabug.org/TenPlus1/mobs_monster
 * mobs_animal https://notabug.org/TenPlus1/mobs_animal
 * mobs_mc https://github.com/maikerumine/mobs_mc/
-* dmobs https://github.com/D00Med/dmobs/
+* mobs_monster https://notabug.org/TenPlus1/mobs_monster
+* mobs_redo https://notabug.org/TenPlus1/mobs_redo
 * mobs_water https://github.com/blert2112/mobs_water/
-* lucky_block https://notabug.org/TenPlus1/lucky_block
-* craftguide https://github.com/minetest-mods/craftguide
-* ambience https://github.com/e-y-e/MinetestAmbience/tree/fix_music
-* anvil https://github.com/minetest-mods/anvil
-* moretrees https://github.com/minetest-mods/moretrees
 * moreores https://github.com/minetest-mods/moreores
+* moretrees https://github.com/minetest-mods/moretrees
