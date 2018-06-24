@@ -29,3 +29,5 @@ Note that the mods themselves aren't included in this repository, but you can do
 * mobs_water https://github.com/blert2112/mobs_water/
 * moreores https://github.com/minetest-mods/moreores
 * moretrees https://github.com/minetest-mods/moretrees
+* teleport_potion https://notabug.org/TenPlus1/teleport_potion
+* snowdrift https://github.com/paramat/snowdrift

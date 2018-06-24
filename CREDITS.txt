@@ -1,3 +1,7 @@
+All mod creators
+================
+* See README.md for complete list of mods, modpacks and games
+
 wirelizard
 ==========
 * Temporary game icon https://commons.wikimedia.org/wiki/File:Twenty_sided_dice.svg
