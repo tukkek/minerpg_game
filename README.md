@@ -29,6 +29,7 @@ Note that the mods themselves aren't included in this repository, but you can do
 * mobs_water https://github.com/blert2112/mobs_water/
 * moreores https://github.com/minetest-mods/moreores
 * moretrees https://github.com/minetest-mods/moretrees
+* orienteering https://repo.or.cz/minetest_orienteering.git
 * teleporter https://bitbucket.org/kingarthursteam/teleporter/overview
     * db https://bitbucket.org/adrido/db/overview
 * snowdrift https://github.com/paramat/snowdrift
