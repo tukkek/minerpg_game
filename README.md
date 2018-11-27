@@ -17,6 +17,7 @@ Note that the mods themselves aren't included in this repository, but you can do
 * anvil https://github.com/minetest-mods/anvil
 * biome_lib https://github.com/minetest-mods/biome_lib
 * craftguide https://github.com/minetest-mods/craftguide
+* compassgps https://github.com/Kilarin/compassgps
 * dmobs https://github.com/D00Med/dmobs/
 * lucky_block https://notabug.org/TenPlus1/lucky_block
 * minetest_game https://github.com/minetest/minetest_game/
@@ -29,7 +30,6 @@ Note that the mods themselves aren't included in this repository, but you can do
 * mobs_water https://github.com/blert2112/mobs_water/
 * moreores https://github.com/minetest-mods/moreores
 * moretrees https://github.com/minetest-mods/moretrees
-* orienteering https://repo.or.cz/minetest_orienteering.git
 * teleporter https://bitbucket.org/kingarthursteam/teleporter/overview
     * db https://bitbucket.org/adrido/db/overview
 * snowdrift https://github.com/paramat/snowdrift
