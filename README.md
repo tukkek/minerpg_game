@@ -17,7 +17,6 @@ Note that the mods themselves aren't included in this repository, but you can do
 * anvil https://github.com/minetest-mods/anvil
 * biome_lib https://github.com/minetest-mods/biome_lib
 * craftguide https://github.com/minetest-mods/craftguide
-* compassgps https://github.com/Kilarin/compassgps
 * dmobs https://github.com/D00Med/dmobs/
 * lucky_block https://notabug.org/TenPlus1/lucky_block
 * minetest_game https://github.com/minetest/minetest_game/
