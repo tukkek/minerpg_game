@@ -32,7 +32,10 @@ clone('https://github.com/minetest-mods/moreores')
 clone('https://github.com/minetest-mods/biome_lib')
 clone('https://github.com/paramat/snowdrift.git')
 clone('https://github.com/minetest-mods/torches')
-clone('https://repo.or.cz/minetest_treasurer.git',after='mv minetest_treasurer treasurer')
 
 clone('https://bitbucket.org/kingarthursteam/teleporter.git')
 clone('https://bitbucket.org/adrido/db.git')
+
+clone('https://repo.or.cz/minetest_treasurer.git',after='mv minetest_treasurer treasurer')
+clone('https://repo.or.cz/tsm_mines.git')
+clone('https://repo.or.cz/minetest_pyramids/tsm_pyramids.git')

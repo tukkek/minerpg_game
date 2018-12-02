@@ -33,4 +33,6 @@ Note that the mods themselves aren't included in this repository, but you can do
     * db https://bitbucket.org/adrido/db/overview
 * torches https://github.com/minetest-mods/torches
 * treasurer https://repo.or.cz/minetest_treasurer.git
+    * tsm_mines
+    * tsm_pyramids
 * snowdrift https://github.com/paramat/snowdrift
