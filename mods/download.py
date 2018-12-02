@@ -31,6 +31,7 @@ clone('https://github.com/minetest-mods/moretrees')
 clone('https://github.com/minetest-mods/moreores')
 clone('https://github.com/minetest-mods/biome_lib')
 clone('https://github.com/paramat/snowdrift.git')
+clone('https://github.com/minetest-mods/torches')
 
 clone('https://bitbucket.org/kingarthursteam/teleporter.git')
 clone('https://bitbucket.org/adrido/db.git')

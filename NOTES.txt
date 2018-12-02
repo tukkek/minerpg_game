@@ -1,0 +1,12 @@
+Disabled mobs (minetest.conf)
+===================
+* fox has insanely high damage
+* creeper can easily sneak up on you and insta-kill, plus a single one will set an entire forest on fire (pretty sad because creepers are very interesting when it comes to damaging builds, etc)
+
+mobs_redo
+=======
+* 1.47 breaks NPCs attacking enemies (maybe it has something to do with setting them to passive which is also necessary) - works fine on 1.42 so sticking to it for the time being
+
+torches
+=====
+* The mod description says it has been obsoleted by the base game but torches don't seem to work as intended when wielded on the latest development branch os of this writing

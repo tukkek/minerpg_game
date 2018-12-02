@@ -31,4 +31,5 @@ Note that the mods themselves aren't included in this repository, but you can do
 * moretrees https://github.com/minetest-mods/moretrees
 * teleporter https://bitbucket.org/kingarthursteam/teleporter/overview
     * db https://bitbucket.org/adrido/db/overview
+* torches https://github.com/minetest-mods/torches
 * snowdrift https://github.com/paramat/snowdrift
